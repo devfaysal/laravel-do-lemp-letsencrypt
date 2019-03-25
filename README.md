@@ -1,1 +1,1 @@
-# Install Larvel app with SSL sertificate
+## Install Larvel app with SSL cert at DO LEMP droplet
